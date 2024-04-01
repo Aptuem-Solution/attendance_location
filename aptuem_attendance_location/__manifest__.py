@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Check in / Out Restriction for Attendance Location",
+    'name': "Check in-Out Restriction for Attendance Location",
 
     'summary': "Track attendance based on the office location and specified distance allowance, and prevent users from checking in or out if they are outside the designated range.",
 
@@ -9,7 +9,7 @@
         It checks whether the employee's check-in location is within the allowed range of the office location.
     """,
 
-    'author': "Gamal Ashraf,Aptuem Solutions",
+    'author': "Aptuem Solutions",
     'website': "https://www.aptuem.com",
 
     # Categories can be used to filter modules in modules listing
