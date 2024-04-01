@@ -19,7 +19,7 @@
     'version': '0.1',
     'module_type': 'official',
     'license': 'AGPL-3',
-    'images': ['static/description/thumbnail.mp4'],
+    'images': ['static/description/thumbnail.gif'],
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'hr_attendance'],
