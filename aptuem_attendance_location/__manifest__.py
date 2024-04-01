@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Attendance Location",
+    'name': "Check in / Out Restriction for Attendance Location",
 
-    'summary': "Calculate attendance based on office location and allowed distance",
+    'summary': "Track attendance based on the office location and specified distance allowance, and prevent users from checking in or out if they are outside the designated range.",
 
     'description': """
         This module calculates attendance based on the office location and allowed distance. 
