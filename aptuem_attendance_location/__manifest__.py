@@ -9,7 +9,7 @@
         It checks whether the employee's check-in location is within the allowed range of the office location.
     """,
 
-    'author': "Gamal Ashraf",
+    'author': "Gamal Ashraf,Aptuem Solutions",
     'website': "https://www.aptuem.com",
 
     # Categories can be used to filter modules in modules listing
